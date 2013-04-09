@@ -1,5 +1,5 @@
 {
-    "name": "avalanche123/imagine-bundle",
+    "name": "success/imagine-bundle",
     "description": "Image manipulation using Imagine and Twig Filters.",
     "keywords": ["image manipulation", "imagine"],
     "homepage": "https://github.com/avalanche123/AvalancheImagineBundle",
@@ -8,7 +8,7 @@
     "repositories":[
         {
             "type":"git",
-            "url":"git://github.com/avalanche123/Imagine.git"
+            "url":"git@github.com:chugas/SuccessImagine.git"
         }
     ],
 
