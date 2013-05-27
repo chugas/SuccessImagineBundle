@@ -8,7 +8,7 @@
     "repositories":[
         {
             "type":"git",
-            "url":"git://github.com/avalanche123/Imagine.git"
+            "url":"git@github.com:chugas/Imagine.git"
         }
     ],
 
