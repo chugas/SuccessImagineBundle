@@ -7,7 +7,7 @@
     "license": "MIT",
     "repositories":[
         {
-            "type":"git",
+            "type":"vcs",
             "url":"https://github.com/chugas/Imagine.git"
         }
     ],
